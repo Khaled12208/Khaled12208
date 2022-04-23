@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
 <h3 align="center">A passionate QA automation Engineer from Egypt</h3>
-<h3 align="center">I have +3 years of experince in Test Automation Development</h3>
+<h3 align="center">I've +3 years of experince in test automation development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled12208&label=Profile%20views&color=0e75b6&style=flat" alt="khaled12208" /> </p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khaled-m-farh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-m-farh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khaled-m-farh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-m-farh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
