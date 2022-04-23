@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Khaled</h1>
+<h1 align="center">Hi 👋, I'm Khaled M. Farh</h1>
 <h3 align="center">A passionate QA automation Engineer from Egypt</h3>
+<h3 align="center">I have 3+ experince in test automation engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled122408&label=Profile%20views&color=0e75b6&style=flat" alt="khaled122408" /> </p>
 
 - 📫 How to reach me **khaled.farh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 Email: **khaled.farh@gmail.com**
+- ![image](https://user-images.githubusercontent.com/58485199/164895953-712d724e-a611-49ce-bee5-fb34e68aad8f.png) Mobile: **+201226146620**
 <p align="left">
 </p>
 
