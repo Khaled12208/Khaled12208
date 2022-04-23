@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Vodafne Germany DXL Project**
 
-- 🌱 I’m currently learning **Appium,Cypress,Jenkins**
+- 🌱 I’m currently learning **Appium,Cypress,Jenkins and docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Khaled12208](https://github.com/Khaled12208)
 
-- 💬 Ask me about **Selenium, Rest-Assured, Api testing, UI test and javaing**
+- 💬 Ask me about **Selenium, Rest-Assured, Api testing, UI test and java**
 
 - 📫 How to reach me **khaled.farh@gmail.com**
 
