@@ -27,8 +27,7 @@
  <img  alt="traffic" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" width="110" height="35"/> </a>
 <img  alt="traffic" src="https://qatestlab.com/assets/Uploads/testng1.png" width="110" height="35" /> </a>
 <img  alt="traffic" src="https://itsadeliverything.com/images/cucumber-logo.png" width="110" height="35"/> </a>
-<img  alt="traffic" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/Rest-assured-logo.png?fit=446%2C113&ssl=1" width="110" height="35" /></a>
-<img  alt="traffic" src="https://www.pinclipart.com/picdir/big/567-5676022_appium-perfecto-appium-logo-clipart.png" width="110" height="35" /></a></p>
+<img  alt="traffic" src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/05/Rest-assured-logo.png?fit=446%2C113&ssl=1" width="110" height="35" /></a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaled12208&show_icons=true&locale=en&layout=compact" alt="khaled12208" /></p>
 
