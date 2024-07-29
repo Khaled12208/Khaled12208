@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate QA automation Engineer from Egypt</h3>
-<h3 align="center">I've +3 years of experince in test automation development</h3>
+<h3 align="center">A passionate QA Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled12208&label=Profile%20views&color=0e75b6&style=flat" alt="khaled12208" /> </p>
 
