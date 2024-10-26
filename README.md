@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate QA Automation Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled12208&label=Profile%20views&color=0e75b6&style=flat" alt="khaled12208" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaled12208" alt="khaled12208" /></a> </p>
 
-- 🔭 I’m currently working on **Vodafne Germany DXL Project**
-
-- 🌱 I’m currently learning **Appium,Cypress,Jenkins and docker**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Khaled12208](https://github.com/Khaled12208)
-
-- 💬 Ask me about **Selenium, Rest-Assured, Api testing, UI test and java**
 
 - 📫 How to reach me **khaled.farh@gmail.com**
 
