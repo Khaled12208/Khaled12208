@@ -1,8 +1,9 @@
 <div align="center">
 
-# Khaled Farh
+<img src="assets/profile.png" alt="Khaled Farh" width="200" height="200" style="border-radius:50%; object-fit:cover;"/>
 
-## Software Engineer
+<div style="font-size: 30px; font-weight: 800;">Khaled Farh</div>
+<div style="font-size: 20px; margin-top: 1px; margin-bottom: 15px;">Software Engineer</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Khaled-m-Farh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khaled.farh@gmail.com)
@@ -37,6 +38,7 @@ Software Engineer specializing in distributed systems and cloud-native applicati
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### Databases
 
