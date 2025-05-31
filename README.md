@@ -1,9 +1,13 @@
+<div align="center">
+
 # Khaled Farh
 
-### Senior Software Engineer | Backend Development & Data Engineering
+## Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Khaled-m-Farh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khaled.farh@gmail.com)
+
+</div>
 
 ## About Me
 
