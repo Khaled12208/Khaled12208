@@ -57,6 +57,29 @@ Software Engineer specializing in distributed systems and cloud-native applicati
 
 ## 🌟 Featured Projects
 
+
+### [Express.js Project](https://github.com/Khaled12208/ExpressJsProject)
+
+- Developed a RESTful API service using Express.js and TypeScript
+- Implemented clean architecture principles with proper separation of concerns
+- Integrated with MongoDB for data persistence
+- Tech stack: TypeScript, Express.js, MongoDB, REST Assured for testing
+
+### [Go with Gin Project](https://github.com/Khaled12208/GoLangWithGinProject)
+
+- Created a high-performance web service using Go and Gin framework
+- Implemented RESTful endpoints with proper error handling and validation
+- Integrated with monitoring tools for observability
+- Tech stack: Go, Gin, Jaeger, Kibana
+
+### [Data Streaming Project](https://github.com/Khaled12208/DataStreamingApp)
+- Real-time Order Processing: Immediate order ingestion and validation
+- Stream Analytics: Real-time computation of business metrics
+- Fraud Detection: Automated alerts for suspicious activities
+- Scalable Architecture: Horizontally scalable microservices
+- Event-Driven Design: Asynchronous communication via Kafka
+- Data Persistence: Structured analytics storage in PostgreSQL
+
 ### [Cloud-Native Microservices Application](https://github.com/Khaled12208/Cloud-Native-App)
 
 - Designed and implemented a comprehensive microservices architecture using Spring Cloud
@@ -78,19 +101,6 @@ Software Engineer specializing in distributed systems and cloud-native applicati
 - Features include appointment scheduling, patient records, and staff management
 - Tech stack: Java, Spring Boot, Spring Security, JPA, Thymeleaf, MySQL
 
-### [Express.js Project](https://github.com/Khaled12208/ExpressJsProject)
-
-- Developed a RESTful API service using Express.js and TypeScript
-- Implemented clean architecture principles with proper separation of concerns
-- Integrated with MongoDB for data persistence
-- Tech stack: TypeScript, Express.js, MongoDB, REST Assured for testing
-
-### [Go with Gin Project](https://github.com/Khaled12208/GoLangWithGinProject)
-
-- Created a high-performance web service using Go and Gin framework
-- Implemented RESTful endpoints with proper error handling and validation
-- Integrated with monitoring tools for observability
-- Tech stack: Go, Gin, Jaeger, Kibana
 
 ---
 
