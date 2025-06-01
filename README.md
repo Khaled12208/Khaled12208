@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.png" alt="Khaled Farh" width="200" height="200" style="border-radius:50%; object-fit:cover;"/>
 
 <div style="font-size: 30px; font-weight: 800;">Khaled Farh</div>
 <div style="font-size: 20px; margin-top: 1px; margin-bottom: 15px;">Software Engineer</div>
