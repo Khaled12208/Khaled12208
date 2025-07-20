@@ -56,6 +56,12 @@ Software Engineer specializing in distributed systems and cloud-native applicati
 
 ## 🌟 Featured Projects
 
+### [Core Banking Project](https://github.com/Khaled12208//tuum-core-banking)
+- Developed a RESTful API service using Springboot, RbbitMQ, Postgres , Java and RestAssured
+- Implemented clean architecture principles with CQRS, Semi ASYNC.
+- Concurrency using transacation, concurrant hashmap and optmistic lock 
+- Event-Driven Design: Aysnc Command path using RabbitMQ
+
 
 ### [Express.js Project](https://github.com/Khaled12208/ExpressJsProject)
 
